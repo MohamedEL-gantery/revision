@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1715906822 source:c:\users\elgan\downloads\magicbox\app.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
+1715907492 source:c:\users\elgan\downloads\magicbox\main.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
