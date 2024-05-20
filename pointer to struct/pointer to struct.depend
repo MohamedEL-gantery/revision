@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716249943 source:e:\basic\c\c\pointer to struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
