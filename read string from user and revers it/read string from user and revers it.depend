@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716083173 source:e:\basic\c\c\read string from user and revers it\main.c
+	<stdio.h>
+	<stdlib.h>
+
