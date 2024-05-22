@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1716341521 source:e:\basic\c\c\recursive_function\factory.c
+	<stdio.h>
+	<stdlib.h>
+
+1716342406 source:e:\basic\c\c\recursive_function\power.c
+	<stdio.h>
+	<stdlib.h>
+
